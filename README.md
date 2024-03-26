@@ -1,10 +1,10 @@
 
-- Hey, I am @strawberr8
-- I am interested in coding
-- I'm currently learning Java
-- How to reach me: petr444a@gmail.com
-- Pronouns: She/Her
-- Hobby: Watching Korean Drama
+- Hey, I am @strawberr8.
+- I am interested in coding. 
+- I'm currently learning Java and pursuing computer science. 
+- How to reach me: petr444a@gmail.com. 
+- Pronouns: She/Her. 
+- Hobby: Going for a walk, admiring nature, and listening to the sound of summer's rain.
 
 <!---
 strawberr8/strawberr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
